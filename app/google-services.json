@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849822372783",
+    "firebase_url": "https://remoteconfig-a880f.firebaseio.com",
+    "project_id": "remoteconfig-a880f",
+    "storage_bucket": "remoteconfig-a880f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849822372783:android:38cfd47475f31467",
+        "android_client_info": {
+          "package_name": "com.android.sachin.remoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849822372783-94stdt6bltrl089h0e9onf7ahq7af6ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_dzVoPuYqWIwxnyJC4oBNvrGvlCkshg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
